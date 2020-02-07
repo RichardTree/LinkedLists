@@ -1,0 +1,17 @@
+
+Œsquid:S1319X"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(óíÉÂÿÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(¥Û§¦ûÿÿÿÿ
+Œsquid:S1319,"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ãÏàþúÿÿÿÿ
+‹squid:S1319"oThe type of the "list" object should be an interface such as "List" rather than the implementation "ArrayList".(ÜÉö¼þÿÿÿÿ
+Œsquid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(õŽÎãùÿÿÿÿ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(’üÖ›
+‹squid:S1319,"oThe type of the "list" object should be an interface such as "List" rather than the implementation "ArrayList".(ãÏàþúÿÿÿÿ
+Œsquid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ÜÉö¼þÿÿÿÿ
+squid:S1319X"tThe type of the "inputList" object should be an interface such as "List" rather than the implementation "ArrayList".(óíÉÂÿÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ä¼ÝÈüÿÿÿÿ
+Šsquid:S1319>"tThe type of the "rightSide" object should be an interface such as "List" rather than the implementation "ArrayList".(‰ÿÓn
+Œsquid:S1319>"vThe type of the "outcomeList" object should be an interface such as "List" rather than the implementation "ArrayList".(‰ÿÓn
+‰squid:S1319>"sThe type of the "leftSide" object should be an interface such as "List" rather than the implementation "ArrayList".(‰ÿÓn

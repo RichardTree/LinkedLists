@@ -1,17 +1,22 @@
 
+Ysquid:UselessImportCheck")Remove this unused import 'java.net.URL'.(ñìÁ„üÿÿÿÿ8ÓĞë½†.
+^squid:UselessImportCheck"3Remove this unused import 'java.io.BufferedReader'.(€é²Å8ÓĞë½†.
+asquid:UselessImportCheck"6Remove this unused import 'java.io.InputStreamReader'.(ãˆÎÉ8ÓĞë½†.
+Fsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÓĞë½†.
+¼%squid:RedundantThrowsDeclarationCheck"Remove the declaration of thrown exception 'java.security.NoSuchAlgorithmException', as it cannot be thrown from method's body.(­¥ù’øÿÿÿÿ8ÓĞë½†.
 [
-squid:S106"9Replace this use of System.out or System.err by a logger.(Òğ² ûÿÿÿÿ8ƒ¯æ¯.
-V
-squid:S106"9Replace this use of System.out or System.err by a logger.(½‰Áñ8ØÑÛ¯.
+squid:S106"9Replace this use of System.out or System.err by a logger.(‰Öîàÿÿÿÿÿ8ÓĞë½†.
 [
-squid:S106"9Replace this use of System.out or System.err by a logger.(Õ¬Ø¸şÿÿÿÿ8ƒ¯æ¯.
+squid:S106 "9Replace this use of System.out or System.err by a logger.(¼§ƒ¸ÿÿÿÿÿ8ÓĞë½†.
 V
-squid:S106"9Replace this use of System.out or System.err by a logger.(£Ë²é8½ó°.
-V
-squid:S106"9Replace this use of System.out or System.err by a logger.(©µÇ‘8ƒ¯æ¯.
-V
-squid:S106"9Replace this use of System.out or System.err by a logger.(Úªí»8½ó°.
-V
-squid:S106"9Replace this use of System.out or System.err by a logger.(â¬Î8½ó°.
-V
-squid:S106"9Replace this use of System.out or System.err by a logger.(¼½8ƒ¯æ¯.
+squid:S106!"9Replace this use of System.out or System.err by a logger.(£œºı8ÓĞë½†.
+hsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÎÄòV8ÓĞë½†.
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ï¤êŠüÿÿÿÿ8ÓĞë½†.
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(øîØúÿÿÿÿ8ÓĞë½†.
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ñ¼ûë8ÓĞë½†.
+nsquid:CommentedOutCodeLine%"<This block of commented-out lines of code should be removed.(»•ûÿÿÿÿ8ÓĞë½†.
+isquid:CommentedOutCodeLine("<This block of commented-out lines of code should be removed.(Å“ùº8ÓĞë½†.
+nsquid:CommentedOutCodeLine-"<This block of commented-out lines of code should be removed.(±ì•ğüÿÿÿÿ8ÓĞë½†.
+isquid:CommentedOutCodeLine2"<This block of commented-out lines of code should be removed.(Ø•¹±8ÓĞë½†.
+isquid:CommentedOutCodeLine6"<This block of commented-out lines of code should be removed.(ö»È«8ÓĞë½†.
+nsquid:CommentedOutCodeLine<"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8ÓĞë½†.

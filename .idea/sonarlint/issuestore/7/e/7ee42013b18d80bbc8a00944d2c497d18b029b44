@@ -1,0 +1,9 @@
+
+gsquid:S2259"KA "NullPointerException" could be thrown; "messageDigest" is nullable here.(¿ÛÕÄúÿÿÿÿ
+gsquid:S2259"KA "NullPointerException" could be thrown; "messageDigest" is nullable here.(¿ÛÕÄúÿÿÿÿ
+?squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+?squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+osquid:ModifiersOrderCheck
+"EReorder the modifiers to comply with the Java Language Specification.(ŒË–çùÿÿÿÿ
+Rsquid:UnusedPrivateMethod
+"(Remove this unused private "add" method.(ŒË–çùÿÿÿÿ

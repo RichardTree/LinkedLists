@@ -1,0 +1,17 @@
+
+Gsquid:S1444"+Make this "public static board" field final(™Ö¥ÿÿÿÿÿ
+„"squid:ClassVariableVisibilityCheck"QMake board a static final constant or non-public and provide accessors if needed.(™Ö¥ÿÿÿÿÿ
+asquid:UselessImportCheck"8Remove this unused import 'java.lang.Integer.MAX_VALUE'.(Æ¹¥·ûÿÿÿÿ
+\squid:UselessImportCheck"8Remove this unused import 'java.lang.Integer.MIN_VALUE'.(…ÄîÜ
+Vsquid:UselessImportCheck"-Remove this unused import 'java.util.Random'.(èøÉ›ùÿÿÿÿ
+9squid:S2386"Make this member "protected".(™Ö¥ÿÿÿÿÿ
+N
+squid:S106"9Replace this use of System.out or System.err by a logger.(Üò¿U
+isquid:S3776?"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(§°¡ó
+N
+squid:S106Z"9Replace this use of System.out or System.err by a logger.(¯ëÍ
+T
+squid:S106\"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+^squid:S1126€"AReplace this if-then-else statement by a single return statement.(‘˜£ôÿÿÿÿÿ
+Fsquid:S1125€")Remove the literal "false" boolean value.(‘˜£ôÿÿÿÿÿ
+Fsquid:S1125€")Remove the literal "false" boolean value.(‘˜£ôÿÿÿÿÿ
